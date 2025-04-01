@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mg+RULm+tOXi6ArAMdBvhuYV2gkRz9100urkC1StAMw=",
+  "Source": "dotnet-practice-api",
+  "BasePath": "_content/dotnet-practice-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
